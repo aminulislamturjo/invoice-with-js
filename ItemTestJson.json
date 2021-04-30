@@ -1,0 +1,23 @@
+[
+  {
+    "ItemID": 1,
+    "Item": "Laptop",
+    "UnitCost": 30000,
+    "Quantity": 5,
+    "Price": null
+  },
+  {
+    "ItemID": 2,
+    "Item": "Phone",
+    "UnitCost": 15000,
+    "Quantity": 2,
+    "Price": null
+  },
+  {
+    "ItemID": 3,
+    "Item": "Watch",
+    "UnitCost": 5000,
+    "Quantity": 10,
+    "Price": null
+  }
+]
